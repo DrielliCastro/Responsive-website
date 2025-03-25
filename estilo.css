@@ -9,8 +9,8 @@ html,body, #home{
 }
 
 body{
-    background: url(../img/capa5.png),
-                url(../img/ruido.png),
+    background: url(./capa5.png),
+                url(./ruido.png),
                 linear-gradient(50deg,#ff4169,#7c26f8);
                 background-attachment: fixed;
                 font-family: Arial, Helvetica, sans-serif;
